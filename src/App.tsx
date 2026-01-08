@@ -79,7 +79,7 @@ const App = () => {
             ["ATM Card","Simple ATM card with HTML5 and CSS3."],
             ["Tamil Keyboard","Using HTML5, CSS3 & JS"],
             ["AC/DC Clock","Simple HTML5, CSS3 and JS."],
-            ["Game 25","Python CLI game"],
+            ["Game 25","Python CLI games, Python code."],
             ["🥁 Drum Kit","HTML5, CSS3 & JS"],
             ["Pikachu","HTML5 & CSS3"],
             ["Todo App","React hooks todo app"],
@@ -87,7 +87,7 @@ const App = () => {
             ["VS Code Clone","HTML, CSS & JS"],
             ["AgribotV1.0","Simple Agribot"],
             ["Airline Reservation System","C++"],
-            ["Trainee-CRUD","React + Vite + Java"]
+            ["Trainee-CRUD","Simple Full-Stack-Trainee-Crud, Using React+vite and Java."]
           ].map(([title, desc]) => (
             <div key={title} className="project-card">
               <h3>{title}</h3>
