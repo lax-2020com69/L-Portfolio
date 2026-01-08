@@ -43,7 +43,7 @@ const App = () => {
             Hi, I'm <span>Laxman</span>
           </h1>
           <p>Full Stack Developer | Python | JavaScript</p>
-          <a href="github-address" className="btn">
+          <a href="https://github.com/lax-2020com69" className="btn">
             View Projects
           </a>
         </div>
